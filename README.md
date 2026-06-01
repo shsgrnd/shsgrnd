@@ -105,3 +105,17 @@
 ```text
 AI 모델을 만드는 것보다,
 그 모델이 실제 서비스 안에서 안정적으로 동작하도록 연결하는 일에 관심이 있습니다.
+```
+
+- 모델 평가와 실패 원인 분석
+- AI 서버와 서비스 백엔드 간 책임 분리
+- 사용자 흐름을 고려한 fallback UX
+- 실험 결과를 재현 가능한 문서와 지표로 남기는 개발 방식
+- 기능 구현 이후의 패키징, 배포, 운영 가능성 점검
+
+---
+
+## 📫 Contact
+
+- Email: gudtjq08@gmail.com
+- GitHub: [github.com/shsgrnd](https://github.com/shsgrnd)
